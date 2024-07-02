@@ -1,3 +1,3 @@
 # Flightz_recommended_recipe
-No doubt, every engineer, programmer, and developer is super busy learning or coding. That's why I wanted to come up with a recipe that's not only delicious but also easy to whip up.   
-不可否認，每個工程師、程式設計師和開發人員都在忙於學習或開發。所以我想創造一個既美味又易於烹飪的食譜。
+There is no doubt that every engineer, programmer, and developer is always learning or coding. That’s why I wanted to make a recipe that was not only delicious but also super quick and easy to make. So I'm going to rank the dishes based on ease and speed of cooking.   
+毫無疑問，每個工程師、程式設計師和開發人員總是在學習或編碼。這就是為什麼我想做一個不僅美味而且超級快速且易於製作的食譜。所以我將根據烹飪的難易度和速度對菜餚進行排序。
