@@ -5,23 +5,33 @@ There is no doubt that every engineer, programmer, and developer is always learn
 毫無疑問，每個工程師、程式設計師和開發者總是在學習或coding。這就是為什麼我想做一個不僅美味而且超級快速且易於製作的食譜。所以我將根據`烹飪的難易度和速度`對菜餚進行排序。   
 
 ---  
-
+### 必要的廚具 Necessary kitchen utensils
+* 大同電鍋 electric cooker
+* 瓦斯爐 gas stove
+* 烤箱 oven
+* 微波爐 Micro-wave oven
+* 瓷碗, 瓷盤, 鐵碗 Porcelain bowl, porcelain plate, iron bowl
+* 筷子, 湯匙, 湯勺 Chopsticks, spoon, soup spoon
+* 冰箱 refrigerator
 ### MENU `(DIDN'T SORT YET)`
-* 火山熔岩巧克力 
-* 玉米濃湯
-* 燙青菜
-* 牛排
-* 蒸蛋
-* 火雞麵
-* 拉麵
-* 蛋吐司
-* 紫菜蛋花湯
-* 煎蛋
-* 酸辣湯
-* 蛋炒飯
-* 水餃
-* 泡麵(PRO_MAX)
-* ***Temmie***
+* 火山熔岩巧克力 Chocolate Fondant
+* 玉米濃湯 corn soup
+* 燙青菜 Blanched vegetables
+* 牛排 steak
+* 蒸蛋 steamed egg
+* 火雞麵 Korea spicy instant noodle :It is popular in Taiwan
+* 拉麵 Ramen
+* 蛋吐司 Egg toast
+* 紫菜蛋花湯 Egg Seaweed Soup
+* 煎蛋 Omelette
+* 酸辣湯 Hot(SPICY) and sour soup
+* 蛋炒飯 Egg fried rice
+* 水餃 Dumplings
+* 泡麵(PRO_MAX) Instant noodles (PRO_MAX)
+* 番茄炒蛋 Tomato scrambled eggs
+* ***Temmie*** ***A coding master***
+
+
 ### 🔷🔶🔶🔶🔶 : **1-star**  
 *Usually* needn't to use ur gas stove, some of dishes will need to use micro-wave oven or oven.
 
