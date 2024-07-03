@@ -4,9 +4,10 @@ There is no doubt that every engineer, programmer, and developer is always learn
    
 毫無疑問，每個工程師、程式設計師和開發者總是在學習或coding。這就是為什麼我想做一個不僅美味而且超級快速且易於製作的食譜。所以我將根據`烹飪的難易度和速度`對菜餚進行排序。   
 
----   
-[TOC]
+---  
 
+[TOC]  
+  
 ### 🔷🔶🔶🔶🔶 : **1-star**  
 *Usually* needn't to use ur gas stove, some of dishes will need to use micro-wave oven or oven.
 
