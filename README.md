@@ -14,22 +14,29 @@ There is no doubt that every engineer, programmer, and developer is always learn
 * 筷子, 湯匙, 湯勺 Chopsticks, spoon, soup spoon
 * 冰箱 refrigerator
 ### MENU `(DIDN'T SORT YET)`
-* 火山熔岩巧克力 Chocolate Fondant
-* 玉米濃湯 corn soup
+#### BREAKFAST 早餐
+* 蛋吐司 Egg toast
+* 蒸蛋 steamed egg
+* 煎蛋 Omelette
+#### DINNER 主食
 * 燙青菜 Blanched vegetables
 * 牛排 steak
-* 蒸蛋 steamed egg
 * 火雞麵 Korea spicy instant noodle :It is popular in Taiwan
 * 拉麵 Ramen
-* 蛋吐司 Egg toast
-* 紫菜蛋花湯 Egg Seaweed Soup
-* 煎蛋 Omelette
-* 酸辣湯 Hot(SPICY) and sour soup
 * 蛋炒飯 Egg fried rice
 * 水餃 Dumplings
 * 泡麵(PRO_MAX) Instant noodles (PRO_MAX)
 * 番茄炒蛋 Tomato scrambled eggs
-* ***Temmie*** ***A coding master***
+* 蒸蛋 steamed egg
+* 煎蛋 Omelette
+#### SOUP 湯品
+* 玉米濃湯 corn soup
+* 紫菜蛋花湯 Egg Seaweed Soup
+* 酸辣湯 Hot(SPICY) and sour soup
+#### SWEATS 甜點
+* 火山熔岩巧克力 Chocolate Fondant
+#### Orz
+* ***Temmie*** : ***A coding master***
 
 
 ### 🔷🔶🔶🔶🔶 : **1-star**  
