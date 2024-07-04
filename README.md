@@ -11,34 +11,10 @@ There is no doubt that every engineer, programmer, and developer is always learn
 * Porcelain bowl, porcelain plate, iron bowl
 * Chopsticks, spoon, soup spoon
 * refrigerator
-### MENU `(DIDN'T SORT YET)`
-#### BREAKFAST 
-* Egg toast
-* steamed egg
-* Omelette
-#### DINNER 
-* Blanched vegetables
-* steak
-* A Korean spicy instant noodle :It is popular in Taiwan
-* Ramen
-* Egg fried rice
-* Dumplings
-* (PRO_MAX) Instant noodles (PRO_MAX)
-* Tomato scrambled eggs
-* steamed egg
-* Omelette
-#### SOUP 
-* corn soup
-* Egg Seaweed Soup
-* Hot(SPICY) and sour soup
-#### SWEATS 
-* Chocolate Fondant
-#### Orz
-* ***Temmie*** : ***A coding master***
 
 ---
 
-## RANKED MENU 
+## Classification criteria
 ### 🔷🔶🔶🔶🔶 : **1-star**  
 *Usually* needn't to use ur gas stove, some of dishes will need to use micro-wave oven or oven.
 
