@@ -15,6 +15,19 @@ There is no doubt that every engineer, programmer, and developer is always learn
 ---
 
 ## Classification criteria
-### 🔷🔶🔶🔶🔶 : **1-star**  
-*Usually* needn't to use ur gas stove, some of dishes will need to use micro-wave oven or oven.
+### ⬢⬡⬡⬡⬡ : **1-star**  
+You need to know how to use an oven or microwave.
+
+### ⬢⬢⬡⬡⬡ : **2-star**  
+You need to know how to use gas stove.
+
+### ⬢⬢⬢⬡⬡ : **3-star**  
+Might be some epic ingredients or hard to make by yourselves `such as handmade dumplings`
+
+### ⬢⬢⬢⬢⬡ : **4-star**  
+Requires the ability to accurately control heat and time.
+
+### ⬢⬢⬢⬢⬢ : **5-star**  
+Requires several hours of preparation or is very difficult. 
+
 
